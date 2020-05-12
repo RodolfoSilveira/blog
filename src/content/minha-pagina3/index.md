@@ -1,9 +1,10 @@
 ---
-path: '/blog/minha-pagina2'
+path: '/blog/minha-pagina3'
 title: 'Minha página!'
 description: 'Bem vindo a minha página.'
 categoria: "teste"
 price: 10
+banner: "./img03.jpg"
 ---
 
 # Minha página
